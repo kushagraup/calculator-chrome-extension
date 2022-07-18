@@ -1,0 +1,44 @@
+body{
+	font-family: Courier;
+	color: white;
+	background-color: black; 
+}
+table
+{
+font-size: 20pt;
+width: 300px;
+text-align: center;
+padding: 20px;
+border-collapse: collapse;
+table-layout: fixed;
+margin: auto;
+/*no select*/
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+}
+td
+{
+background-color: #444; 
+height: 60px;
+width: 60px;
+}
+#calc_display{
+	color: #0f0;
+	width: 290px;
+	height: 60px;
+	background-color: #333;
+	margin: 10px;
+	font-size: 16pt;
+	padding: 2px;
+	text-align: right;
+}
+td:hover{
+	background-color: #666;  
+}
+td:active{
+	background-color: #222;  
+}
