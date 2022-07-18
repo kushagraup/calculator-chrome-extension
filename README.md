@@ -5,8 +5,8 @@ A Google Chrome Extension for calculating quickly without changing tabs.
 <br>
 
 ## Screenshot
-![Image](images/Screenshot1)
-![Image](images/Screenshot2)
+![Image](images/Screenshot1.png)
+![Image](images/Screenshot2.png)
 
 ## How to use
 1.  Go to extantion list ([chrome://extensions/](chrome://extensions/))
